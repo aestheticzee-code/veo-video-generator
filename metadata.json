@@ -1,0 +1,5 @@
+{
+  "name": "VEO Video Generator",
+  "description": "An application to generate short videos from text prompts and optional images using Google's VEO model.",
+  "requestFramePermissions": []
+}
